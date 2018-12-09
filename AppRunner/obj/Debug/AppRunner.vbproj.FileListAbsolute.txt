@@ -1,0 +1,17 @@
+C:\Users\DariusH\source\repos\AppRunner\AppRunner\bin\Debug\AppRunner.exe.config
+C:\Users\DariusH\source\repos\AppRunner\AppRunner\bin\Debug\AppRunner.exe
+C:\Users\DariusH\source\repos\AppRunner\AppRunner\bin\Debug\AppRunner.pdb
+C:\Users\DariusH\source\repos\AppRunner\AppRunner\bin\Debug\AppRunner.xml
+C:\Users\DariusH\source\repos\AppRunner\AppRunner\obj\Debug\AppRunner.vbprojAssemblyReference.cache
+C:\Users\DariusH\source\repos\AppRunner\AppRunner\obj\Debug\AppRunner.Form1.resources
+C:\Users\DariusH\source\repos\AppRunner\AppRunner\obj\Debug\AppRunner.Resources.resources
+C:\Users\DariusH\source\repos\AppRunner\AppRunner\obj\Debug\AppRunner.vbproj.GenerateResource.cache
+C:\Users\DariusH\source\repos\AppRunner\AppRunner\obj\Debug\AppRunner.vbproj.CoreCompileInputs.cache
+C:\Users\DariusH\source\repos\AppRunner\AppRunner\obj\Debug\AppRunner.exe
+C:\Users\DariusH\source\repos\AppRunner\AppRunner\obj\Debug\AppRunner.xml
+C:\Users\DariusH\source\repos\AppRunner\AppRunner\obj\Debug\AppRunner.pdb
+C:\Users\DariusH\source\repos\AppRunner\AppRunner\bin\Debug\AppRunner.exe.manifest
+C:\Users\DariusH\source\repos\AppRunner\AppRunner\bin\Debug\AppRunner.application
+C:\Users\DariusH\source\repos\AppRunner\AppRunner\obj\Debug\AppRunner.TrustInfo.xml
+C:\Users\DariusH\source\repos\AppRunner\AppRunner\obj\Debug\AppRunner.exe.manifest
+C:\Users\DariusH\source\repos\AppRunner\AppRunner\obj\Debug\AppRunner.application
